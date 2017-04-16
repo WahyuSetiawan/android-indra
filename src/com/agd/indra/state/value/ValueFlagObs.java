@@ -1,0 +1,29 @@
+package com.agd.indra.state.value;
+
+public interface ValueFlagObs 
+{
+	int FALLPOHON 		= 0;
+	int BIGROCK 		= FALLPOHON 	+ 1;
+	int LITTLEROCK 		= BIGROCK 		+ 1;
+	int HOLE			= LITTLEROCK 	+ 1;
+	int DISABLE 		= HOLE 			+ 1;
+	
+	public static float STARTOBS 	= 900f;
+	
+	public static int RANGEOBSTACLE = 470;
+	
+	public static int[][] FLAGOBS = {
+		{FALLPOHON, DISABLE, BIGROCK},
+		{LITTLEROCK, BIGROCK,FALLPOHON},
+		{BIGROCK, DISABLE, FALLPOHON},
+		{FALLPOHON,LITTLEROCK,DISABLE},
+		{LITTLEROCK, DISABLE, BIGROCK},
+		{BIGROCK,FALLPOHON,DISABLE},
+		{DISABLE, LITTLEROCK, DISABLE},
+		{LITTLEROCK, BIGROCK, FALLPOHON},
+		{BIGROCK,FALLPOHON, LITTLEROCK},
+		{BIGROCK},
+		{LITTLEROCK},
+		{FALLPOHON},
+		};
+}
