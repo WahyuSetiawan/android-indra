@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml:3:2-25
+		INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml
+		INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml
+		INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml
+		INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml
+application
+ADDED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml:7:2-42
+	android:debuggable
+		ADDED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml:7:15-40
+uses-sdk
+INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml
+INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml
+INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml
+INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml
+		ADDED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml
+		INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml
+		ADDED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml
+		INJECTED from /home/kijang/Documents/tmp-androiid/andEngine/src/main/AndroidManifest.xml
